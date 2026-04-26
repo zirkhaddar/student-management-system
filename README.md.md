@@ -40,6 +40,6 @@ git diff:  command kani wuxuu ku tusayaa dhamaan wixii kugu qoran fileka README 
 
 
 
-telesom academy
+telesom academy is the best one in somaliland 
 
 
