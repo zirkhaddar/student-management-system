@@ -32,4 +32,4 @@ git log --oneline: command kana wuxuu qabtaa wuxuu ku tusayaa shistory gaagii lk
 
 git diff:  command kani wuxuu ku tusayaa dhamaan wixii kugu qoran fileka README OO KALIYAATA 
 
-this line waxaa la qoray iyadoo ka joogo git hub
+
