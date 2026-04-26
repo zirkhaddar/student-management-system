@@ -1,1 +1,3 @@
-/courses
+node_modules/
+.env
+*.log
