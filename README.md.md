@@ -14,21 +14,31 @@ systemka SMS waxaa develop gareeyay telesom academy
 
 
 
-explaining this commands and what they shows 
+explaining this commands and what they shows
 
 ============================================
 
 
 
-git log : command kani wuuxuu ku tusayaa dhamaaan history wixii aad qabatay ah wax kasta min bilow ilaa dhamaad iyadoo faahfaahsin oo ay ka mid yihiin sacadii shaqada la qabtay Iyo timekii shaqada la qabtay Iyo minuteskii shaqada la qabtay iyo userka shaqada qabtay 
+git log : command kani wuuxuu ku tusayaa dhamaaan history wixii aad qabatay ah wax kasta min bilow ilaa dhamaad iyadoo faahfaahsin oo ay ka mid yihiin sacadii shaqada la qabtay Iyo timekii shaqada la qabtay Iyo minuteskii shaqada la qabtay iyo userka shaqada qabtay
 
 
 
-git log --oneline: command kana wuxuu qabtaa wuxuu ku tusayaa shistory gaagii lkn wuxuu kaga fiicanyahay git log in dhamaan history gaagii uu kugu soo koobo hal hal line halka ka kale midkiiba dhowr line uu ahaa 
+git log --oneline: command kana wuxuu qabtaa wuxuu ku tusayaa shistory gaagii lkn wuxuu kaga fiicanyahay git log in dhamaan history gaagii uu kugu soo koobo hal hal line halka ka kale midkiiba dhowr line uu ahaa
 
 
 
 
 
-git diff:  command kani wuxuu ku tusayaa dhamaan wixii kugu qoran fileka README OO KALIYAATA 
+git diff:  command kani wuxuu ku tusayaa dhamaan wixii kugu qoran fileka README OO KALIYAATA
+
+
+
+
+
+
+
+
+
+telesom academy
 
