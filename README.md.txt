@@ -13,4 +13,4 @@ git log : commands kani wuuxuu ku tusayaa dhamaaan history wixii aad qabatay ah 
 
 git log --oneline: 
 
-this line waxaa la qoray iyadoo aan joogo github
+
