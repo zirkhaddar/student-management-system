@@ -12,3 +12,5 @@ explaining this commands and what they shows
 git log : commands kani wuuxuu ku tusayaa dhamaaan history wixii aad qabatay ah wax kasta min bilow ilaa dhamaad iyadoo faahfaahsin oo ay ka mid yihiin sacadii shaqada la qabtay Iyo timekii shaqada la qabtay Iyo minuteskii shaqada la qabtay iyo userka shaqada qabtay 
 
 git log --oneline: 
+
+
