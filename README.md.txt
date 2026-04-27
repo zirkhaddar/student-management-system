@@ -18,4 +18,6 @@ git log --oneline:
 telesom academy
 =======
 khaddar mohamed abdiakriim 
->>>>>>> e9a0804b48c60159ad513b6441fe57618ae57bd7
+
+
+the challenge that a faced waxaa ka mida in aan gitignore ka sida instractionka ku qoran aanan u sameen ee markii aan fahmi waayay aan sameeyay git ignore then laba folder oo ku jira project folderkayga aan qariyey anoo isticmaalaaya gitignore.
