@@ -13,5 +13,9 @@ git log : commands kani wuuxuu ku tusayaa dhamaaan history wixii aad qabatay ah 
 
 git log --oneline: 
 
+<<<<<<< HEAD
 
 telesom academy
+=======
+khaddar mohamed abdiakriim 
+>>>>>>> e9a0804b48c60159ad513b6441fe57618ae57bd7
